@@ -1,1 +1,1 @@
-console.log('Gustavo es Marico')
+console.log('Gustavo es Marico');
